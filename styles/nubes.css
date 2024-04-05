@@ -1,0 +1,175 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.nubes-BPc {
+  opacity: 0.7;
+  width: 100%;
+  height: 64rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgba(14, 31, 120, 0.6999999881) -0%, rgba(119, 38, 157, 0.6790000085) 100%);
+}
+.nubes-BPc .hombre-moderno-auriculares-entorno-urbano-9-hsk {
+  width: 42.7rem;
+  height: 63.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.nubes-BPc .estrofas-y-demas-informacion-phU {
+  width: 29.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.65rem;
+  top: 42.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nubes-BPc .microsoftofficeonedrive2019present-1-iXx {
+  width: 4.7rem;
+  height: 3.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 19.2rem;
+  top: 47.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.nubes-BPc .googledriveicon2020-1-Q9t {
+  width: 3.4rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.9rem;
+  top: 47.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.nubes-BPc .group-3-vP8 {
+  width: 26.7209rem;
+  height: 41.4rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 1.3rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.nubes-BPc .group-3-vP8 .hombre-moderno-auriculares-entorno-urbano-1-3yY {
+  margin-bottom: 24.2577rem;
+  width: 6.5209rem;
+  height: 6.4423rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 13rem;
+  flex-shrink: 0;
+}
+.nubes-BPc .group-3-vP8 .auto-group-xjwj-yMQ {
+  margin: 0rem 3.721rem 1.1rem 0rem;
+  width: 23rem;
+  height: 4.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  font-style: italic;
+  color: rgba(8, 8, 8, 0.5);
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #939393;
+  border-radius: 13.9rem;
+  flex-shrink: 0;
+}
+.nubes-BPc .group-3-vP8 .auto-group-lte6-EHL {
+  margin-right: 3.7209rem;
+  box-sizing: border-box;
+  padding: 0.7rem 2rem 0.8rem 2rem;
+  width: 23rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  font-style: italic;
+  color: rgba(8, 8, 8, 0.5);
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #939393;
+  border-radius: 13.9rem;
+  flex-shrink: 0;
+}
+.nubes-BPc .vector-6-tMt {
+  width: 14.3607rem;
+  height: 11.75rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nubes-BPc .titulo-pmL {
+  width: 6.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 1.6375rem;
+  top: 2.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nubes-BPc .hd-Xve {
+  width: 6.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 1.6375rem;
+  top: 0;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.1710000038;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.nubes-BPc .hd-Xve .hd-Xve-sub-0 {
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.nubes-BPc .hd-Xve .hd-Xve-sub-1 {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}

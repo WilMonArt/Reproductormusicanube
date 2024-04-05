@@ -1,0 +1,119 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.principal-q3k {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 4.1rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #0e1f78 -0%, rgba(119, 38, 157, 0.9700000286) 100%);
+}
+.principal-q3k .auto-group-tras-C2i {
+  margin-bottom: 9.6rem;
+  width: 100%;
+  height: 44.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.principal-q3k .auto-group-tras-C2i .audifonos-1-Fv6 {
+  width: 39.2rem;
+  height: 39.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.principal-q3k .auto-group-tras-C2i .titulo-9ka {
+  width: 17.7rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 9.15rem;
+  top: 35.9rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.principal-q3k .auto-group-tras-C2i .titulo-bsU {
+  box-sizing: border-box;
+  padding: 0 0.1rem;
+  width: 16.8rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 32.9rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+}
+.principal-q3k .auto-group-tras-C2i .titulo-bsU .item--XFL {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1710000038;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.principal-q3k .auto-group-tras-C2i .titulo-bsU .item--XFL .item--XFL-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.principal-q3k .auto-group-tras-C2i .titulo-bsU .item--XFL .item--XFL-sub-1 {
+  font-size: 10rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.principal-q3k .group-1-7mG {
+  margin: 0 6.5rem;
+  box-sizing: border-box;
+  padding: 0rem 4.5rem 0rem 4.6rem;
+  width: calc(100% - 13rem);
+  height: 4.8rem;
+  background-color: #2c42b3;
+  border-radius: 13.9rem;
+  flex-shrink: 0;
+}
+.principal-q3k .group-1-7mG .item--pfg {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 3.6rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

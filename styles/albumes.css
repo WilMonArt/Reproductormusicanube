@@ -1,0 +1,419 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.albumes-jWe {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #080808;
+}
+.albumes-jWe .auto-group-otfl-ssk {
+  width: 100%;
+  height: 16rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.albumes-jWe .auto-group-otfl-ssk .rectangle-7-1yx {
+  width: 36rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 7.7rem;
+  background-color: rgba(76, 103, 247, 0.5);
+  border-radius: 0 0 4.17rem 4.215rem;
+}
+.albumes-jWe .auto-group-otfl-ssk .vector-3-KUr {
+  width: 14.3607rem;
+  height: 11.75rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.albumes-jWe .auto-group-otfl-ssk .titulo-FtJ {
+  width: 6.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 1.8375rem;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.albumes-jWe .auto-group-otfl-ssk .hd-MgS {
+  width: 6.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 1.8375rem;
+  top: 0;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.1710000038;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.albumes-jWe .auto-group-otfl-ssk .hd-MgS .hd-MgS-sub-0 {
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.albumes-jWe .auto-group-otfl-ssk .hd-MgS .hd-MgS-sub-1 {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.albumes-jWe .auto-group-otfl-ssk .titulo-3Bt {
+  width: 13.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 9.7rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #080808;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.albumes-jWe .auto-group-otfl-ssk .hombre-moderno-auriculares-entorno-urbano-5-9Vp {
+  width: 6.5209rem;
+  height: 6.4423rem;
+  cursor: pointer;
+  position: absolute;
+  left: 29rem;
+  top: 0.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 13rem;
+}
+.albumes-jWe .auto-group-vucn-E1U {
+  box-sizing: border-box;
+  padding: 3.1rem 3.2rem 1.7rem 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-yjie-wga {
+  margin-bottom: 3.3rem;
+  width: 9.3rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-yjie-wga .titulo-tLv {
+  width: 9.3rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-yjie-wga .subtitulos-z94 {
+  width: 5.1rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-s51p-GsG {
+  margin-bottom: 3.3rem;
+  width: 9.3rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-s51p-GsG .titulo-CF8 {
+  width: 9.3rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-s51p-GsG .subtitulos-WWi {
+  width: 5.1rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-6qzt-bo4 {
+  margin-bottom: 3.3rem;
+  width: 9.3rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-6qzt-bo4 .titulo-juG {
+  width: 9.3rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-6qzt-bo4 .subtitulos-F6v {
+  width: 5.1rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-xknr-jnn {
+  margin-bottom: 3.3rem;
+  width: 9.3rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-xknr-jnn .titulo-gCE {
+  width: 9.3rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-xknr-jnn .subtitulos-aYW {
+  width: 5.1rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-jtea-fZx {
+  margin-bottom: 3.3rem;
+  width: 9.3rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-jtea-fZx .titulo-1dp {
+  width: 9.3rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-jtea-fZx .subtitulos-KuQ {
+  width: 5.1rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-ce38-dfC {
+  margin-bottom: 4.1rem;
+  width: 9.3rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-ce38-dfC .titulo-P8a {
+  width: 9.3rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-ce38-dfC .subtitulos-tr2 {
+  width: 5.1rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-wm34-bkS {
+  width: 9.3rem;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-wm34-bkS .titulo-kdL {
+  width: 9.3rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.albumes-jWe .auto-group-vucn-E1U .auto-group-wm34-bkS .subtitulos-UZL {
+  width: 5.1rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

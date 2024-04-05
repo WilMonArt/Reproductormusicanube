@@ -1,0 +1,31 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 4.1rem;
+}.subtitulos-6T8 {
+  font-family: Merriweather, 'Source Sans Pro';
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 1.6rem;
+  font-size: 1.2rem;
+  line-height: 1.2575;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 400;
+  font-style: italic;
+  white-space: nowrap;
+  justify-content: center;
+}

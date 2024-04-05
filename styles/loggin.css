@@ -1,0 +1,218 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+
+  {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+  }
+
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+  input[type="submit"] {
+    width: 100%;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  width: 36rem;
+}.loggin-D8i {
+  box-sizing: border-box;
+  padding: 5.7rem 5.95rem 13.1rem 6.35rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/disparo-al-aire-libre-mujer-caucasica-disfruta-escuchando-pistas-audio-usa-telefonos-celulares-auriculares-modernos-posa-centro-tiene-sonrisa-dientes-1-bg.png');
+  background: linear-gradient(180deg, #0e1f78 -0%, rgba(119, 38, 157, 0.9700000286) 100%);
+}
+.loggin-D8i .auto-group-myln-KhY {
+  margin: 0rem 3.113rem 14.5rem 2.888rem;
+  width: calc(100% - 6rem);
+  height: 11.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.loggin-D8i .auto-group-myln-KhY .titulo-3Ne {
+  width: 17.7rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.loggin-D8i .auto-group-myln-KhY .hd-9Rg {
+  width: 16.6rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 0.25rem;
+  top: 0;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1710000038;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.loggin-D8i .auto-group-myln-KhY .hd-9Rg .hd-9Rg-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.loggin-D8i .auto-group-myln-KhY .hd-9Rg .hd-9Rg-sub-1 {
+  font-size: 10rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.loggin-D8i .auto-group-dt9k-oee {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  height: 12.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.loggin-D8i .auto-group-dt9k-oee .group-2-x1k {
+  width: 23rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 0.15rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 13.9rem;
+}
+.loggin-D8i .auto-group-dt9k-oee .group-2-x1k .auto-group-kywt-VGa {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 4.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  font-style: italic;
+  color: rgba(8, 8, 8, 0.5);
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #939393;
+  border-radius: 13.9rem;
+  flex-shrink: 0;
+}
+.loggin-D8i .auto-group-dt9k-oee .group-2-x1k .auto-group-uw82-kyC {
+  box-sizing: border-box;
+  padding: 0.6rem 1.4rem 0.9rem 1.4rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  font-style: italic;
+  color: rgba(8, 8, 8, 0.5);
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #939393;
+  border-radius: 13.9rem;
+  flex-shrink: 0;
+}
+.loggin-D8i .auto-group-dt9k-oee .estrofas-y-demas-informacion-Dbt {
+  width: 23.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 10.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.loggin-D8i .auto-group-rczr-X6n {
+  margin: 0rem 6.65rem 0rem 5.55rem;
+  width: calc(100% - 12.2rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.loggin-D8i .auto-group-rczr-X6n .k14jcwar400x400-1-q7U {
+  margin-right: 2.1rem;
+  width: 4.1rem;
+  height: 4.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.loggin-D8i .auto-group-rczr-X6n .item-13662000-1-9dx {
+  width: 5.3rem;
+  height: 4rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+
+  
+  
+}

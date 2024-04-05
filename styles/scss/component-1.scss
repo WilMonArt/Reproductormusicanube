@@ -1,0 +1,41 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 10.9rem;
+}.component-1-x3Q {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  .color-primario-neutro-6fQ {
+    width: 100%;
+    height: 10.1rem;
+    background-color: #77269d;
+    flex-shrink: 0;
+  }
+  .color-primario-claro-FHQ {
+    height: 10.1rem;
+    background-color: #bc46f4;
+    flex-shrink: 0;
+    width: 100%;
+  }
+  .color-primario-oscuro-bcA {
+    width: 100%;
+    height: 10.1rem;
+    background-color: #421657;
+    flex-shrink: 0;
+  }
+}

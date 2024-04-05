@@ -1,0 +1,110 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.bienvenida-Xdx {
+  box-sizing: border-box;
+  padding: 1.5rem 1.7rem 6.3rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #0e1f78 -0%, rgba(119, 38, 157, 0.9700000286) 100%);
+}
+.bienvenida-Xdx .logo-3sC {
+  margin: 0rem 5.025rem 10.031rem 4.7rem;
+  width: calc(100% - 9.725rem);
+  height: 12.8688rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.bienvenida-Xdx .logo-3sC .titulo-Zae {
+  width: 100%;
+  height: 11.8rem;
+  position: relative;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+}
+.bienvenida-Xdx .logo-3sC .titulo-Zae .titulo-KJv {
+  width: 16.6rem;
+  height: 11.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.9875rem;
+  top: 0;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1710000038;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.bienvenida-Xdx .logo-3sC .titulo-Zae .titulo-KJv .titulo-KJv-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.bienvenida-Xdx .logo-3sC .titulo-Zae .titulo-KJv .titulo-KJv-sub-1 {
+  font-size: 10rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.bienvenida-Xdx .logo-3sC .titulo-Zae .titulo-xWJ {
+  width: 17.7rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 2.4375rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.bienvenida-Xdx .estrofas-y-demas-informacion-SAa {
+  width: 100%;
+  height: 33.3rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.bienvenida-Xdx .estrofas-y-demas-informacion-SAa .estrofas-y-demas-informacion-myY {
+  max-width: 32.3rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.bienvenida-Xdx .estrofas-y-demas-informacion-SAa .estrofas-y-demas-informacion-myY .estrofas-y-demas-informacion-myY-sub-0 {
+}
+.bienvenida-Xdx .estrofas-y-demas-informacion-SAa .estrofas-y-demas-informacion-myY .estrofas-y-demas-informacion-myY-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.bienvenida-Xdx .estrofas-y-demas-informacion-SAa .estrofas-y-demas-informacion-myY .estrofas-y-demas-informacion-myY-sub-2 {
+}

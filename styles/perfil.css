@@ -1,0 +1,275 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.perfil-QiA {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #080808;
+}
+.perfil-QiA .auto-group-obbc-ASS {
+  margin: 0rem 0.7rem 3.4rem 0rem;
+  width: calc(100% - 0.7rem);
+  height: 12.7rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.perfil-QiA .auto-group-obbc-ASS .auto-group-whqs-gfg {
+  margin: 0rem 0.039rem 0.05rem 0rem;
+  width: 14.3607rem;
+  height: calc(100% - 0.05rem);
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-2.png');
+  flex-shrink: 0;
+}
+.perfil-QiA .auto-group-obbc-ASS .auto-group-whqs-gfg .titulo-p1C {
+  width: 6.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.6375rem;
+  top: 2rem;
+}
+.perfil-QiA .auto-group-obbc-ASS .auto-group-whqs-gfg .titulo-p1C .titulo-9pA {
+  width: 6.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.perfil-QiA .auto-group-obbc-ASS .auto-group-whqs-gfg .titulo-p1C .titulo-5C2 {
+  width: 6.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.perfil-QiA .auto-group-obbc-ASS .auto-group-whqs-gfg .hd-PyQ {
+  width: 6.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 2.6375rem;
+  top: 0;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.1710000038;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.perfil-QiA .auto-group-obbc-ASS .auto-group-whqs-gfg .hd-PyQ .hd-PyQ-sub-0 {
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.perfil-QiA .auto-group-obbc-ASS .auto-group-whqs-gfg .hd-PyQ .hd-PyQ-sub-1 {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #37b5bd;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.perfil-QiA .auto-group-obbc-ASS .titulo-HBc {
+  font-size: 5rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.perfil-QiA .auto-group-exbg-29C {
+  margin-right: 0.7726rem;
+  width: 36.5274rem;
+  height: 50.4012rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.perfil-QiA .auto-group-exbg-29C .vector-3-kL6 {
+  width: 36.5274rem;
+  height: 46.9012rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.perfil-QiA .auto-group-exbg-29C .hombre-moderno-auriculares-entorno-urbano-8-tBQ {
+  width: 15rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8.5rem;
+}
+.perfil-QiA .auto-group-exbg-29C .subtitulos-apv {
+  width: 23.3rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 19.8rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.perfil-QiA .auto-group-exbg-29C .subtitulos-tqc {
+  width: 23rem;
+  height: 4.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.3rem;
+  top: 42.9rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.perfil-QiA .auto-group-exbg-29C .preferencias-BJv {
+  width: 20.6rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 25.6rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.perfil-QiA .auto-group-exbg-29C .temas-color-Hcr {
+  width: 19.4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 31.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.perfil-QiA .auto-group-exbg-29C .cuentas-drive-Cjp {
+  width: 21.6rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 37.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.perfil-QiA .auto-group-exbg-29C .flecha-1-K3k {
+  width: 3.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 12.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.9rem;
+}
+.perfil-QiA .auto-group-exbg-29C .flecha-2-e62 {
+  width: 3.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 29.1rem;
+  top: 20.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.9rem;
+}
+.perfil-QiA .auto-group-exbg-29C .flecha-3-Zyg {
+  width: 3.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 29.1rem;
+  top: 26.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.9rem;
+}
+.perfil-QiA .auto-group-exbg-29C .flecha-4-h4J {
+  width: 3.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 29.1rem;
+  top: 32rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.9rem;
+}
+.perfil-QiA .auto-group-exbg-29C .flecha-5-dTk {
+  width: 3.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 29.1rem;
+  top: 37.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.9rem;
+}
+.perfil-QiA .auto-group-exbg-29C .flecha-6-ACn {
+  width: 3.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 29.1rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.9rem;
+}

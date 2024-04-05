@@ -1,0 +1,30 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 8.7rem;
+}.titulo-GDC {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  white-space: nowrap;
+  display: flex;
+  height: 2.4rem;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
